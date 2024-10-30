@@ -180,6 +180,13 @@ video {
   text-align: center;
 }
 
+.price {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
 form {
   display: flex;
   flex-direction: column;
