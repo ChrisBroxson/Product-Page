@@ -170,7 +170,7 @@ video {
   display: inline-block;
 }
 
-#pricing + p {
+#Pricing + p {
   font-size: 20px;
   text-align: center;
 }
